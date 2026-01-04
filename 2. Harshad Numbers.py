@@ -1,5 +1,3 @@
-2. Harshad Numbers
-
 n = int(input())
 s = 0
 t = n
